@@ -1,4 +1,11 @@
+Its recommended to have certain python packages pre installed to avoid
+"module not found" errors, run the command below to auto install all
+required packages:
+
+pip install -r requirements.txt
+
 # CapstoneProject-Curu (Cleaning.ipynb)
+
 
 --> For running the Cleaning.ipynb file these csv files are needed to run the file:
 
