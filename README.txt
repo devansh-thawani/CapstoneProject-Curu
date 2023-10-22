@@ -7,10 +7,7 @@
 -curu_merged.csv
 -curu_chemist_data/neutrogena_userData_ProductsPage_2.csv
 -curu_chemist_data/La Roche-Posay_userData_ProductsPage_1.csv
--curu_chemist_data/La Roche-Posay_Products_InfoPage_1.csv
 -curu_chemist_data/Avene_userData_ProductsPage_2.csv
--curu_chemist_data/Avene_userData_ProductsPage_1.csv
--curu_chemist_data/Avene_Products_InfoPage_2.csv
--curu_chemist_data/Avene_Products_InfoPage_1.csv
+
 
 --> Import the required packages in the start before running the file
