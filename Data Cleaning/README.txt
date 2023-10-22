@@ -10,5 +10,4 @@
 -curu_chemist_data/Avene_userData_ProductsPage_2.csv
 
 
-
 --> Import the required packages in the start before running the file
