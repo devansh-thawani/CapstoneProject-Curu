@@ -16,5 +16,11 @@ pip install -r requirements.txt
 -curu_chemist_data/La Roche-Posay_userData_ProductsPage_1.csv
 -curu_chemist_data/Avene_userData_ProductsPage_2.csv
 
+--> For running the modelling.ipynb file these csv files are needed to run the file:
+
+-data.csv
+
 
 --> Import the required packages in the start before running the file
+
+
